@@ -1,0 +1,29 @@
+#anterior {
+    border: 3px solid blue;
+    width: 250px;
+    height: 200px;
+}
+
+#medio{
+    border: 3px solid red;
+    width: 450px;
+    height: 400px;
+    margin: 20px;
+}
+
+#posterior{
+    border: 3px solid blue;
+    width: 250px;
+    height: 200px;
+}
+
+div {
+    background: url('../img/f01.png') left bottom repeat-x,
+    url('../img/f02.png') left bottom no-repeat,
+    url('../img/f03.png') left top repeat-x;
+    background-color: #a4d3ff;
+}
+
+p{
+    margin: 10px;
+}

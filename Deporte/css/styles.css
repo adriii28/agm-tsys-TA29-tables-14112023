@@ -1,0 +1,31 @@
+table {
+    border-spacing: 0;
+    border: 5px solid #adb5bd;
+    border-top: 5px solid #e9ecef;
+    border-left: 5px solid #e9ecef;
+}
+
+th, td {
+    padding: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #00c4ff;
+}
+
+th {
+    color: #cae9ca;
+    background-color: #063906;
+}
+
+td {
+    background-color: #cae9ca;
+}
+
+#td2 {
+    background-color: #71a771;
+}
+
+.mid {
+    text-align: center;
+}
+
