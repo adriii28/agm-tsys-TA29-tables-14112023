@@ -1,0 +1,36 @@
+body{
+    font-size:larger;
+}
+h3{
+    text-align: center;
+}
+table {
+    width: 100%;
+    border-spacing: 0;
+    border: 5px solid #adb5bd;
+}
+
+th, td {
+    padding: 5px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.red{
+    color: red;
+}
+
+#celda1{
+    background-color: greenyellow;
+}
+
+#celda2 {
+    text-align: left;
+    background: aqua;
+}
+
+#celda6{
+    text-align: right;
+    vertical-align: bottom;
+    background-color: plum;
+}
